@@ -2,7 +2,7 @@
 
 ### 𝐃𝐚𝐫𝐤 ✘ 𝐌𝐮𝐬𝐢𝐜 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/xxxxxxxxxxlxxxxxx"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
 
 
 
@@ -30,4 +30,4 @@
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ASTechnical/DarkxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cfzboy/DarkxMusic)
